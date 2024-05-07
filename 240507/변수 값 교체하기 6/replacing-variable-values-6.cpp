@@ -11,6 +11,6 @@ int main() {
     a = b;
     b = temp;
 
-    cout << a << "\n" << b;
+    std::cout << a << "\n" << b;
     return 0;
 }
