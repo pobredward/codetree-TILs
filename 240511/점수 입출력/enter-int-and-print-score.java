@@ -7,7 +7,7 @@ public class Main {
 
         int n;
 
-        n = sc.nextInt;
+        n = sc.nextInt();
 
         System.out.println("Your score is " + n + " point.");
     }
