@@ -12,6 +12,8 @@ public class Main {
             for (int i = 1; i <= b; i++){
                 System.out.printf("%d", a);
             }
+        } else {
+            System.out.println(0);
         }
     }
 }
