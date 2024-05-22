@@ -8,4 +8,4 @@ for i in range(2, n):
 if (cnt == 0):
     print("P")
 else:
-    print("c")
+    print("C")
