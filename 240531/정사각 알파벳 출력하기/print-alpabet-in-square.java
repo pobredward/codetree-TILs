@@ -11,10 +11,10 @@ public class Main {
 
         for (int i = 1; i <= n; i++) {
             for (int j = 1; j <= n; j++) {
-                System.out.println((char)cnt);
+                System.out.printf("%c", (char)cnt);
                 cnt++;
             }
-            System.out.println("\n");
+            System.out.println();
         }
     }
 }
