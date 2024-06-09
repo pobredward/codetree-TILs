@@ -14,7 +14,7 @@ public class Main {
         }
 
         for (int i = 0; i < 10; i++) {
-            if (arr[i] > 120) {
+            if (arr[i] > 250) {
                 break;
             }
             sum += arr[i];
