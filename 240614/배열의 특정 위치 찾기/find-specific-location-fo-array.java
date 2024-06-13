@@ -22,6 +22,7 @@ public class Main {
         };
 
         res2 = res2/(double)res2_cnt;
+        res2 = Math.round(res2*10)/(10.0);
 
         System.out.printf("%d %.1f", res1, res2);
 
